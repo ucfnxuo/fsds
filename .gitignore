@@ -176,3 +176,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+## Foundations of Spatial Data Science
+
+This repository contains practicals and notes from the _Foundations_ module. 
+
+You can find the original [here](https://jreades.github.io/fsds/).
